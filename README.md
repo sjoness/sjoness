@@ -1,6 +1,6 @@
 # Hey there, I'm Sam 👋🏾
 
-I'm a passionate iOS Engineer building clean, scalable, and user-centric mobile apps. I care about great architecture, elegant code, and delivering seamless user experiences. Currently helping to **reimagine mobile banking** at a fintech company, using **Swift**, **SwiftUI**, and **Server-Driven UI (SDUI)** principles.
+I'm a passionate Mobile (iOS) Engineer building clean, scalable, and user-centric mobile apps. I care about great architecture, elegant code, and delivering seamless user experiences. Currently helping to **reimagine mobile banking** at a fintech company, using **Swift**, **SwiftUI**, and **Server-Driven UI (SDUI)** principles.
 
 ---
 
@@ -16,8 +16,8 @@ I'm a passionate iOS Engineer building clean, scalable, and user-centric mobile 
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Swift, Objective-C (when I have to)
-- **Frameworks**: SwiftUI, UIKit, Combine, CoreData
+- **Languages**: Swift, Objective-C (when I have to), Dart
+- **Frameworks**: SwiftUI, UIKit, Combine, CoreData, Flutter
 - **Architecture**: Clean Architecture, MVVM, SDUI, Modular Monoliths, Microapps
 - **Tooling**: Tuist, Fastlane, GitHub Actions, Firebase
 - **Other**: DSLs, Remote Config, CI/CD, Design Systems
